@@ -2,7 +2,6 @@ set nocompatible
 
 syntax on
 set number
-set cursorline
 
 set hlsearch
 set ignorecase
