@@ -1,1 +1,2 @@
+alias tinker="php artisan tinker"
 alias dotfiles="git --git-dir=$HOME/.dotfiles --work-tree=$HOME"
