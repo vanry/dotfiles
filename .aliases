@@ -1,2 +1,4 @@
 alias tinker="php artisan tinker"
+alias migrate="php artisan migrate"
+alias phpunit="vendor/bin/phpunit"
 alias dotfiles="git --git-dir=$HOME/.dotfiles --work-tree=$HOME"
