@@ -20,6 +20,7 @@ set softtabstop=4
 let mapleader=";"
 nmap Y y$
 nmap <leader><Space> :nohlsearch<CR>
+nmap <leader>v <C-v>
 nmap <leader>p "0p
 nmap <leader>P "+p
 nmap <leader>dif ddda}
