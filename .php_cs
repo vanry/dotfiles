@@ -17,6 +17,8 @@ return PhpCsFixer\Config::create()
         'no_spaces_around_offset' => true,
         'no_trailing_comma_in_singleline_array' => true,
         'no_unused_imports' => true,
+        'no_useless_else' => true,
+        'no_useless_return' => true,
         'no_whitespace_before_comma_in_array' => true,
         'not_operator_with_successor_space' => true,
         'object_operator_without_whitespace' => true,
