@@ -1,4 +1,5 @@
 alias tinker="php artisan tinker"
 alias migrate="php artisan migrate"
 alias phpunit="vendor/bin/phpunit"
+alias tunnel="ssh -ND 7070 root@45.33.240.34 &"
 alias dotfiles="git --git-dir=$HOME/.dotfiles --work-tree=$HOME"

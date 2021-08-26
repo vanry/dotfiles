@@ -105,4 +105,3 @@ fi
 for file in ~/.{exports,aliases}; do
     [ -f $file ] && . $file
 done
-
