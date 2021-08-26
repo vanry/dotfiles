@@ -11,6 +11,7 @@ return PhpCsFixer\Config::create()
         'cast_spaces' => true,
         'class_attributes_separation' => true,
         'concat_space' => true,
+        'function_typehint_space' => true,
         'no_empty_statement' => true,
         'no_leading_namespace_whitespace' => true,
         'no_singleline_whitespace_before_semicolons' => true,
@@ -25,8 +26,10 @@ return PhpCsFixer\Config::create()
         'ordered_imports' => true,
         'single_blank_line_before_namespace' => true,
         'single_quote' => true,
+        'space_after_semicolon' => true,
         'ternary_operator_spaces' => true,
         'trailing_comma_in_multiline_array' => true,
+        'trim_array_spaces' => true,
         'unary_operator_spaces' => true,
         'whitespace_after_comma_in_array' => true,
     ]);
