@@ -1,2 +1,2 @@
 export EDITOR=vim
-export PATH=$PATH:$HOME/.npm/bin:$HOME/.composer/vendor/bin
+export PATH=~/.composer/vendor/bin:~/.npm/bin:$PATH
